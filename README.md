@@ -112,7 +112,7 @@ const developer = {
   <a href="mailto:nissanby001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://xzyyysh.github.io/xzyyysh_/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>

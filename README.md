@@ -1,12 +1,12 @@
-# Hi there, I'm xzyyysh_
+# Hi there, I'm xzyyysh
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=440&lines=Intermediate+Developer;Full+Stack+Enthusiast;Problem+Solver;Always+Learning" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=xzyyysh_&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/xzyyysh_?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=xzyyysh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/xzyyysh?label=Followers&style=social" alt="GitHub Followers" />
 </div>
 
 ---
@@ -15,7 +15,7 @@
 
 ```javascript
 const developer = {
-    name: "xzyyysh_",
+    name: "xzyyysh",
     role: "Intermediate Developer",
     location: "Dominican Republic",
     experience: "2+ years",
@@ -77,16 +77,16 @@ const developer = {
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xzyyysh_&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzyyysh_&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xzyyysh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xzyyysh&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xzyyysh_&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xzyyysh&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzyyysh_&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xzyyysh&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
 </div>
 
 ---
@@ -94,7 +94,7 @@ const developer = {
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xzyyysh_&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=xzyyysh&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -102,7 +102,7 @@ const developer = {
 ## Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xzyyysh_&theme=tokyonight" alt="WakaTime Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=xzyyysh&theme=tokyonight" alt="WakaTime Stats"/>
 </div>
 
 ---
@@ -125,5 +125,5 @@ const developer = {
 </div>
 
 <div align="center">
-  <i>From [xzyyysh_](https://github.com/xzyyysh_)</i>
+  <i>From [xzyyysh](https://github.com/xzyyysh)</i>
 </div>

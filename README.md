@@ -24,7 +24,6 @@ const developer = {
 };
 ```
 
-- I'm currently working on **exciting projects**
 - I'm currently learning **advanced system design**
 - I'm looking to collaborate on **open source projects**
 - Ask me about **web development, algorithms, or tech in general**

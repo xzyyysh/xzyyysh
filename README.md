@@ -27,7 +27,7 @@ const developer = {
 - I'm currently learning **advanced system design**
 - I'm looking to collaborate on **open source projects**
 - Ask me about **web development, algorithms, or tech in general**
-- How to reach me: **nissanby001@gmail.com**
+- How to reach me: **pockioow0@gmail.com**
 
 ---
 
@@ -109,10 +109,10 @@ const developer = {
 ## Let's Connect
 
 <div align="center">
-  <a href="mailto:nissanby001@gmail.com">
+  <a href="mailto:pockioow0@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://xzyyysh.github.io/xzyyysh_/">
+  <a href="https://xzyyysh.neocities.org">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>

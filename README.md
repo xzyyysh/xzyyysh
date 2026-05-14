@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.ibb.co/Jj0Gs12X/image.gif" alt="banner" width="100%" />
+<img src="./image.gif" alt="banner" width="100%" />
 
 <br><br>
 

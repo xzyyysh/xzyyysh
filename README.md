@@ -1,19 +1,24 @@
-<div align="center">
+```zsh
+> neofetch
+```
 
-<img src="./image.gif" alt="banner" width="300" />
+<img align="left" src="./image.gif" alt="f3l1x" width="320" />
 
-<br><br>
+```csharp
+f3l1x@github
+------------
+OS: Ubuntu
+Shell: zsh 5.9.2
+Pronouns: He/Him
+Location: Dominican Republic
+Focus: Backend & Frontend App Dev
+Languages: C, C++, Rust, Kotlin
+Learning: Reverse Engineering
+Hobbies: Studying, Music, Playing
+Discord: b1f3l1x
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=D2691E&center=true&vCenter=true&width=600&lines=im+f3l1x;(aka%3A+xzyyysh)" alt="Typing SVG" />
-
-<p style="color: #8B4513; font-size: 14px; margin-top: 20px;">
-im a guy with the desire to keep coding and discovering new things in the tech world :d
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#D2691E" src="https://via.placeholder.com/15/D2691E/000000?text=+" width="25" height="20" /><img alt="#8B4513" src="https://via.placeholder.com/15/8B4513/000000?text=+" width="25" height="20" /><img alt="#5865F2" src="https://via.placeholder.com/15/5865F2/000000?text=+" width="25" height="20" /><img alt="#F4A460" src="https://via.placeholder.com/15/F4A460/000000?text=+" width="25" height="20" /><img alt="#2b2b2b" src="https://via.placeholder.com/15/2b2b2b/000000?text=+" width="25" height="20" />
 </p>
-
-<br>
-
-<a href="https://discord.com/users/1392998037554593834">
-  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&color=D2691E" alt="discord" />
-</a>
-
-</div>
